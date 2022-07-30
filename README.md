@@ -7,17 +7,5 @@ Have to read about
 - Tries
 - Morris Preorder Traversal
 - Simple Binary to Decimal Conversion
-
-#include <iostream>
-#include <bitset>
-
-int main()
-{
-    std::string binary = std::bitset<8>(128).to_string(); //to binary
-    std::cout<<binary<<"\n";
-
-    unsigned long decimal = std::bitset<8>(binary).to_ulong();
-    std::cout<<decimal<<"\n";
-    return 0;
-}
+ ![image](https://user-images.githubusercontent.com/64318469/181866456-57ed3a26-f6f0-407e-9306-b3e6b0697173.png)
 
