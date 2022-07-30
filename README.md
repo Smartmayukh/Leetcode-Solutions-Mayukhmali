@@ -25,6 +25,6 @@
    - Watch this video https://www.youtube.com/watch?v=P1Ic85RarKY
    ![image](https://user-images.githubusercontent.com/64318469/181933747-ff1e281f-59e0-45d6-a4ef-e32d92788b6f.png)
 - BuildIn functions
-  - __builtin_popcount(x)
+  - __builtin_popcount(x) //number of ones
   - __builtin_parity(x)
-  - __builtin_clz(n))
+  - __builtin_clz(n)) //for leading zeroes
