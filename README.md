@@ -21,3 +21,7 @@
 - Remember about the difference between erase and remove in vector stl.
    - remove(vec.begin(), vec.end(), 20); -------------- removes all elements of value 20
    - erase returns a iterator and is useful to remove single elements
+- Merging two sorted arrays
+   - Watch this video https://www.youtube.com/watch?v=P1Ic85RarKY
+   ![image](https://user-images.githubusercontent.com/64318469/181933747-ff1e281f-59e0-45d6-a4ef-e32d92788b6f.png)
+
