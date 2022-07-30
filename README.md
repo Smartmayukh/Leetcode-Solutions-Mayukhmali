@@ -15,4 +15,5 @@ For Revision purposes
 ![image](https://user-images.githubusercontent.com/64318469/181913898-4cbb651b-e7e0-49bb-8e80-ca02ac92789c.png)
 - Remember about the difference between erase and remove in vector stl.
    - remove(vec.begin(), vec.end(), 20); -------------- removes all elements of value 20
+   - erase returns a iterator and is useful to remove single elements
 
