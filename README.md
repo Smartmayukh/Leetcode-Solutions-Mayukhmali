@@ -9,7 +9,7 @@
 </p>
 
 
-# Things that I have to read about 
+# Things that I still have to read about 
 
 - Tries
 - Morris Preorder Traversal
