@@ -13,3 +13,8 @@
 - Finding the merging point of two linkedlists
 
 ![image](https://user-images.githubusercontent.com/64318469/182028504-88493e1c-5f25-41eb-b8ce-bf0696e9dbb2.png)
+
+- Superb Question: Palindrome Linked List
+
+![image](https://user-images.githubusercontent.com/64318469/182031500-717d94d2-51ec-4185-bba4-eb91971c3f1f.png)
+
