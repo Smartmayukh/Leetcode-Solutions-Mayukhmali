@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/64318469/182015370-3da7cae5-05b9-4200-8811-a79cb6914203.gif"  width="200"/>  
 </p>
 
-![](https://leetcard.jacoblin.cool/mayukhmali_das?ext=activity)
+![](https://leetcard.jacoblin.cool/mayukhmali_das?ext=activity?hide=ranking,?cache=0)
 
 # Things that I still have to read about 
 
