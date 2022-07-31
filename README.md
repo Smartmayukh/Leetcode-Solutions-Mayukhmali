@@ -16,9 +16,10 @@
 # For Revision purposes
 
 ## Linked List
-- Sum of Linked List(This question was asked to my friend in Hotstar)
+- Sum of Linked List (This question was asked to my friend in Hotstar)
 
 ![image](https://user-images.githubusercontent.com/64318469/182015308-bc2ff4a3-43ed-478e-a2df-1a81d3dbe97a.png)
+- Design a dataset to Insert, Delete, Count, Find in 0(1) was asked in my Amazon Interview. Lets start with simple Insert, Delete, and Find.
 
 
 ## Tree
