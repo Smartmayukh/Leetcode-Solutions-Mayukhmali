@@ -12,12 +12,23 @@
 - Tries
 - Morris Preorder Traversal
 
-## For Revision purposes
+# For Revision purposes
+
+## Linked List
+- Sum of Linked List(This question was asked to my friend in Hotstar)
+
+![image](https://user-images.githubusercontent.com/64318469/182015308-bc2ff4a3-43ed-478e-a2df-1a81d3dbe97a.png)
+
+
+## Tree
 
 - Simple Binary to Decimal Conversion
  ![image](https://user-images.githubusercontent.com/64318469/181866456-57ed3a26-f6f0-407e-9306-b3e6b0697173.png)
 - This code covers important concept of Parent and Depth of a binary tree
 ![image](https://user-images.githubusercontent.com/64318469/181913898-4cbb651b-e7e0-49bb-8e80-ca02ac92789c.png)
+
+## Vector 
+
 - Remember about the difference between erase and remove in vector stl.
    - remove(vec.begin(), vec.end(), 20); -------------- removes all elements of value 20
    - erase returns a iterator and is useful to remove single elements
@@ -33,3 +44,10 @@
   ![image](https://user-images.githubusercontent.com/64318469/182005176-0219f25a-17f5-4e0d-9de9-64a21683008c.png)
 - Finding non duplicate element using Bitwise Xor (Question asked in Analog Device Interview to me)
  ![image](https://user-images.githubusercontent.com/64318469/182005024-2dd800cd-36fa-4870-94e9-9051b6d5522f.png)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
