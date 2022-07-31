@@ -27,6 +27,10 @@
 
 ![image](https://user-images.githubusercontent.com/64318469/182026393-91ab6e36-91bd-4cf8-81a1-24adcb54394c.png)
 
+- Finding the merging point of two linkedlists
+
+![image](https://user-images.githubusercontent.com/64318469/182028504-88493e1c-5f25-41eb-b8ce-bf0696e9dbb2.png)
+
 
 
 
