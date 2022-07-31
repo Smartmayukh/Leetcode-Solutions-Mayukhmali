@@ -18,3 +18,8 @@
 
 ![image](https://user-images.githubusercontent.com/64318469/182031500-717d94d2-51ec-4185-bba4-eb91971c3f1f.png)
 
+- Deleting Common element from Sorted Linked List
+
+![image](https://user-images.githubusercontent.com/64318469/182035155-66b7ea77-d2a9-4f4a-a378-0924ed4f231c.png)
+
+
