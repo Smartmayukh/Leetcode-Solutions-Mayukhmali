@@ -28,5 +28,7 @@
   - __builtin_popcount(x) //number of ones
   - __builtin_parity(x)
   - __builtin_clz(n)) //for leading zeroes
+- We can use this trick also to find out number of ones
+  ![image](https://user-images.githubusercontent.com/64318469/182005134-d0049a95-5858-497a-84f1-d77652afa441.png)
 - Finding non duplicate element using Bitwise Xor (Question asked in Analog Device Interview to me)
  ![image](https://user-images.githubusercontent.com/64318469/182005024-2dd800cd-36fa-4870-94e9-9051b6d5522f.png)
