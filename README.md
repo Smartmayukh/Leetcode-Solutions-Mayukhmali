@@ -23,6 +23,11 @@
 
 ![image](https://user-images.githubusercontent.com/64318469/182023473-bc6708f2-cdb0-4495-a3b7-7db4a43a3680.png)
 
+- Merging two sorted lists. !!!! Remember the highlighted parts !!!!!!!
+
+![image](https://user-images.githubusercontent.com/64318469/182026393-91ab6e36-91bd-4cf8-81a1-24adcb54394c.png)
+
+
 
 
 
