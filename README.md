@@ -21,6 +21,7 @@
 - Tries
 - Morris Preorder Traversal
 - MultiSet
+- Kadane's Algorithm
 
 
 
