@@ -11,6 +11,11 @@
   <img src="https://leetcard.jacoblin.cool/mayukhmali_das?ext=activity?hide=ranking,?cache=0" />
 </p>
 
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Smartmayukh.Leetcode-Solutions-Mayukhmali"  width="150"/>
+</p>
+![visitors]()
 # Things that I still have to read about 
 
 - Tries
