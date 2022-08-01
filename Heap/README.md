@@ -10,6 +10,10 @@
 
 ![image](https://user-images.githubusercontent.com/64318469/182163125-ec368e9f-c8d3-44a0-bd50-eac21a73f773.png)
 
+- Assign rank based on score
+
+![image](https://user-images.githubusercontent.com/64318469/182188705-3696f6bc-a154-43ee-8877-564778f49456.png)
+
 
 
 
