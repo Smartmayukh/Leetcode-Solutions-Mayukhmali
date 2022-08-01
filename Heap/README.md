@@ -6,5 +6,10 @@
 
 ![image](https://user-images.githubusercontent.com/64318469/182120255-d845c719-4025-4eb8-8185-f92ee2c003ba.png)
 
+- Sorting Odd and Even digits of number in place
+
+![image](https://user-images.githubusercontent.com/64318469/182163125-ec368e9f-c8d3-44a0-bd50-eac21a73f773.png)
+
+
 
 
