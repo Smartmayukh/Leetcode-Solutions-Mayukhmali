@@ -10,3 +10,4 @@
 - Knuth-Morris-Pratt algorithm
 - Imperative Approach
 - Binet's Nth formula
+- Brian Kernighan's Algorithm
