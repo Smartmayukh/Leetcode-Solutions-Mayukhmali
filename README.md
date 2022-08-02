@@ -17,10 +17,6 @@
 </p>
 
 
-# Things that I still have to read about 
-
-
-
 
 
 
