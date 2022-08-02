@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mayukhmali_das?ext=activity?hide=ranking,?cache=0" />
+  <img src="https://leetcard.jacoblin.cool/mayukhmali_das?ext=activity?hide=ranking" />
 </p>
 
 
