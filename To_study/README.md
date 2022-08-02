@@ -5,3 +5,4 @@
 - MultiSet
 - Kadane's Algorithm
 - Heap using Multiset
+- Quick Select Algorithm
