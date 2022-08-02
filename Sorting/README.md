@@ -2,7 +2,12 @@
 
 ![image](https://user-images.githubusercontent.com/64318469/182211233-9fd22a72-4a3b-425e-b0a0-d8a6bf7c87be.png)
 
+I will try solving the above problem using Kadane's Algorithm
+- Kth largest element in o(n) time. I solved using Heap.
 
-- WIill try solving the above problem using Kadane's Algorithm
+![image](https://user-images.githubusercontent.com/64318469/182298551-333e66bb-8f10-4d2d-b3c9-b219715c6e93.png)
 
-- in STL there is partial sorting algorithm ans nth_element
+In STL there is partial sorting algorithm and nth_element. Here are some other approaches.
+
+![image](https://user-images.githubusercontent.com/64318469/182298745-3ddb1d5e-42f0-42d4-8ad7-5bfa84079f22.png)
+![image](https://user-images.githubusercontent.com/64318469/182298718-8a9b8e58-3689-406f-a77e-54768dfc37d6.png)
