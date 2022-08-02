@@ -31,3 +31,12 @@ Alternatively I found this logic very interesting
 ![image](https://user-images.githubusercontent.com/64318469/182291401-11f2a427-b4c7-4ba7-b44a-0e6405cbb13f.png)
 ![image](https://user-images.githubusercontent.com/64318469/182291416-c3df5b73-accf-478a-ac35-66f9ac57685e.png)
 
+- K closest point to the origin
+
+![image](https://user-images.githubusercontent.com/64318469/182343146-ef1f1d51-2641-450f-9e47-1b43638cf24f.png)
+
+A good alternate solution will be using partial sort and a homemade comparator function
+
+![image](https://user-images.githubusercontent.com/64318469/182344167-9f0bac5d-34c6-43b4-9a08-b9b227b6bff2.png)
+
+
