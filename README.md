@@ -16,12 +16,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Smartmayukh.Leetcode-Solutions-Mayukhmali"  width="150"/>
 </p>
 ![visitors]()
-# Things that I still have to read about 
 
-- Tries
-- Morris Preorder Traversal
-- MultiSet
-- Kadane's Algorithm
 
 
 
