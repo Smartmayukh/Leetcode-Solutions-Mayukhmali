@@ -14,6 +14,6 @@
 
 ![image](https://user-images.githubusercontent.com/64318469/182188705-3696f6bc-a154-43ee-8877-564778f49456.png)
 
+- K weakest row
 
-
-
+![image](https://user-images.githubusercontent.com/64318469/182280473-3fc71404-1cb1-4382-b8e5-92ec826c8d16.png)
