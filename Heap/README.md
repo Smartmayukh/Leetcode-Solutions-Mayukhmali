@@ -22,3 +22,12 @@ The above approach can be improved by using binary search to find number of lead
 
 ![image](https://user-images.githubusercontent.com/64318469/182282589-8d9585c2-630f-4789-9a88-33574231d891.png)
 
+- Filling cups problem. My heap solution
+
+![image](https://user-images.githubusercontent.com/64318469/182291297-711d7422-5a25-4be2-bec9-e9eeb875863d.png)
+
+Alternatively I found this logic very interesting
+
+![image](https://user-images.githubusercontent.com/64318469/182291401-11f2a427-b4c7-4ba7-b44a-0e6405cbb13f.png)
+![image](https://user-images.githubusercontent.com/64318469/182291416-c3df5b73-accf-478a-ac35-66f9ac57685e.png)
+
