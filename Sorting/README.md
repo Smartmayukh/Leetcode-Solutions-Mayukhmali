@@ -5,4 +5,4 @@
 
 - WIill try solving the above problem using Kadane's Algorithm
 
-- in STL there is partial sorting algorithm
+- in STL there is partial sorting algorithm ans nth_element
