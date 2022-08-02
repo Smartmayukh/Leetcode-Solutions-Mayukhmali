@@ -7,3 +7,4 @@
 - Heap using Multiset
 - Quick Select Algorithm
 - Stable Sort
+- Knuth-Morris-Pratt algorithm
