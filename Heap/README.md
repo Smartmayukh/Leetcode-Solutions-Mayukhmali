@@ -17,3 +17,8 @@
 - K weakest row
 
 ![image](https://user-images.githubusercontent.com/64318469/182280473-3fc71404-1cb1-4382-b8e5-92ec826c8d16.png)
+
+The above approach can be improved by using binary search to find number of leading ones
+
+![image](https://user-images.githubusercontent.com/64318469/182282589-8d9585c2-630f-4789-9a88-33574231d891.png)
+
