@@ -11,3 +11,4 @@
 - Imperative Approach
 - Binet's Nth formula
 - Brian Kernighan's Algorithm
+- Regex Library
