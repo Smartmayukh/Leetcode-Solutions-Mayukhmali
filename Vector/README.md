@@ -17,3 +17,5 @@
   ![image](https://user-images.githubusercontent.com/64318469/182005176-0219f25a-17f5-4e0d-9de9-64a21683008c.png)
 - Finding non duplicate element using Bitwise Xor (Question asked in Analog Device Interview to me)
  ![image](https://user-images.githubusercontent.com/64318469/182005024-2dd800cd-36fa-4870-94e9-9051b6d5522f.png)
+- std::back_inserter constructs a back-insert iterator that inserts new elements at the end of the container to which it is applied. It is defined inside the header file 
+![image](https://user-images.githubusercontent.com/64318469/184277719-f88d8bf1-a732-478c-b96d-efc28f50c745.png)
