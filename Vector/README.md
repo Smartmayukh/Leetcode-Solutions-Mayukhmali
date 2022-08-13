@@ -19,3 +19,8 @@
  ![image](https://user-images.githubusercontent.com/64318469/182005024-2dd800cd-36fa-4870-94e9-9051b6d5522f.png)
 - std::back_inserter constructs a back-insert iterator that inserts new elements at the end of the container to which it is applied. It is defined inside the header file 
 ![image](https://user-images.githubusercontent.com/64318469/184277719-f88d8bf1-a732-478c-b96d-efc28f50c745.png)
+
+- Finding missing element in an array when the size of the array indicates the maximum value.
+This is a very interesting problem. What we will do is that we will negate the values contained in the index, index representing the number present. So finally all the positive indexes will give us which number is absent. Very cool problem.
+
+![image](https://user-images.githubusercontent.com/64318469/184497529-0843f03e-662e-4730-a957-30c150d4655b.png)
