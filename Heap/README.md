@@ -39,4 +39,12 @@ A good alternate solution will be using partial sort and a homemade comparator f
 
 ![image](https://user-images.githubusercontent.com/64318469/182344167-9f0bac5d-34c6-43b4-9a08-b9b227b6bff2.png)
 
+- K most frequent elements. 
+We can do bucket sort or use min heap. Below are both of the solutions.
+
+![image](https://user-images.githubusercontent.com/64318469/184776899-9b84b239-2fba-4224-89ed-04de58d378d1.png)
+
+![image](https://user-images.githubusercontent.com/64318469/184779198-ff2d897d-93d7-4b0c-b01f-aa93b24253b9.png)
+
+
 
