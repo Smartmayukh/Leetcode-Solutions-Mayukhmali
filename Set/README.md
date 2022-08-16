@@ -6,3 +6,8 @@
 I used hashmap to solve the same
 
 ![image](https://user-images.githubusercontent.com/64318469/182032571-48f6c488-f759-4651-b006-7e4911efd954.png)
+
+To print set elements we will use the iterator method
+
+![image](https://user-images.githubusercontent.com/64318469/184768244-865f4924-f3ff-4ff4-84ab-ab803bbf0e23.png)
+
