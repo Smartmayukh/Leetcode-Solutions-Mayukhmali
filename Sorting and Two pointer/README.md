@@ -34,6 +34,8 @@ O(n) time and O(n) space complexity
 
 # V.V.V.V.IMP
 
+O(n) time and o(1) space complexity
+
 ![image](https://user-images.githubusercontent.com/64318469/185043088-5bf02be2-e900-4540-8467-4ce6a554fda3.png)
 
 
