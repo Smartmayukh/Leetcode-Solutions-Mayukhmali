@@ -26,4 +26,6 @@ Solution using two pointer
 
 ![image](https://user-images.githubusercontent.com/64318469/185030881-d26866e8-3955-4e0b-9eca-f054cfc15a26.png)
 
+Trapping rain water
+
 
