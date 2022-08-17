@@ -15,3 +15,7 @@ We can repeat characters to make string
 ![image](https://user-images.githubusercontent.com/64318469/184498269-8889db10-adc4-4654-a08b-a8af53496365.png)
 
 
+To turn a string into lower case
+
+### transform(s.begin(), s.end(), s.begin(), ::tolower);
+
