@@ -28,4 +28,6 @@ Solution using two pointer
 
 Trapping rain water
 
+O(n) time and O(n) space complexity
+![image](https://user-images.githubusercontent.com/64318469/185037035-f28b7ea0-649d-492d-95cc-da98c2466bce.png)
 
