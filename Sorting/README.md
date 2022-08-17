@@ -11,3 +11,14 @@ In STL there is partial sorting algorithm and nth_element. Here are some other a
 
 ![image](https://user-images.githubusercontent.com/64318469/182298745-3ddb1d5e-42f0-42d4-8ad7-5bfa84079f22.png)
 ![image](https://user-images.githubusercontent.com/64318469/182298718-8a9b8e58-3689-406f-a77e-54768dfc37d6.png)
+
+- Three Sum very important problem 
+
+![image](https://user-images.githubusercontent.com/64318469/185027370-b421ba5d-e421-42b1-8c08-1d0d76689ea1.png)
+
+- Container containing the most water
+
+Brute Force Solution gives TLE
+
+![image](https://user-images.githubusercontent.com/64318469/185029108-bed369df-8dc1-4628-ac3b-4933e7fdd424.png)
+
