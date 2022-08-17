@@ -22,3 +22,8 @@ Brute Force Solution gives TLE
 
 ![image](https://user-images.githubusercontent.com/64318469/185029108-bed369df-8dc1-4628-ac3b-4933e7fdd424.png)
 
+Solution using two pointer
+
+![image](https://user-images.githubusercontent.com/64318469/185030881-d26866e8-3955-4e0b-9eca-f054cfc15a26.png)
+
+
