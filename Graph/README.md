@@ -4,6 +4,6 @@ Number of Islands
 
 Maximum Area of Island
 
-![image](https://user-images.githubusercontent.com/64318469/187901561-b16e5fed-af9e-4a18-b318-b3044d4d6f79.png)
+![image](https://user-images.githubusercontent.com/64318469/187901665-0c6f471d-1c6d-4b99-ad78-592ef4d55df2.png)
 
 
