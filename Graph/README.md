@@ -7,3 +7,5 @@ Maximum Area of Island
 ![image](https://user-images.githubusercontent.com/64318469/187901665-0c6f471d-1c6d-4b99-ad78-592ef4d55df2.png)
 
 
+Redundant Connection : Union Find Algorithm 
+
