@@ -72,6 +72,23 @@ Rotting tomatoes
         
     }
     };
- 
+
+Reverse Thinking : Capture Everything except the surrounding regions
+
+
+
+
+
+
 Redundant Connection : Union Find Algorithm 
+
+
+
+
+
+
+
+
+
+
 
