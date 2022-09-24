@@ -13,3 +13,7 @@ If a number is power of 4. Very Interesting solution.
 
 ![image](https://user-images.githubusercontent.com/64318469/185930323-414ddad0-6807-4e6c-963e-2bc61ed94f98.png)
 
+Formula to calculate area of triangle using three coordinates
+
+![image](https://user-images.githubusercontent.com/64318469/192104535-87127e41-1824-461c-8069-7e6a222be1ff.png)
+
