@@ -12,3 +12,4 @@
 - Binet's Nth formula
 - Brian Kernighan's Algorithm
 - Regex Library
+- Moore Voting Algorithm
